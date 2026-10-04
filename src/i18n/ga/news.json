@@ -126,5 +126,9 @@
   "theprimeagen-joins-omarchy-core": {
     "title": "Tá ThePrimeagen ag teacht le Omarchy Core chun Agentic QA a threorú",
     "sourceHash": "f529ba4841ab631a5e7c03a4cc95e4c53fca804b6ad5b8203092365c5cfca284"
+  },
+  "omarchy-launches-bug-bounty-program-on-hackerone": {
+    "title": "Seolann Omarchy clár bounty fabhtanna $100,000 ar HackerOne",
+    "sourceHash": "09e834cfd5c67b5c1b5434c4921b506f7fc73e736d7fdf37b575ed1d1483dc2c"
   }
 }

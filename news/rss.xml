@@ -5,8 +5,27 @@
     <link>https://omarchy.org/news</link>
     <description>Notes on the people, ideas, and releases shaping Omarchy.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:00:00 GMT</lastBuildDate>
     <atom:link href="https://omarchy.org/news/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+  <title>Omarchy launches $100,000 bug bounty program on HackerOne</title>
+  <link>https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone</link>
+  <guid isPermaLink="true">https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone</guid>
+  <pubDate>Fri, 02 Oct 2026 10:00:00 GMT</pubDate>
+  <dc:creator>DHH</dc:creator>
+  <description><![CDATA[Omarchy now has a bug bounty program on HackerOne, funded with $100,000 for bounties, and Mehmet İnce joins Omarchy Core as head of security.]]></description>
+  <content:encoded><![CDATA[<p>Omarchy now has an official <a href="https://hackerone.com/omarchy">bug bounty program on HackerOne</a>! The <a href="https://omarchy.org/foundation/">Omacom Foundation</a> has funded it with <strong>$100,000 for bounties</strong>, so researchers who find a real vulnerability and report it privately can now get paid for their work.</p>
+
+<p>HackerOne gives researchers a familiar place to submit their findings, follow along as we work on a fix, and collect their bounty. It also gives the <a href="https://omarchy.org/teams/#security">Omarchy Security Team</a> a proper workflow for triaging all the reports coming in. If you’d rather not create a HackerOne account, you can still email security@omarchy.org. The <a href="https://omarchy.org/security/">security page</a> has all the details on what we consider a vulnerability and how to report one.</p>
+
+<p>To lead all of this, I’m thrilled to announce that <a href="https://x.com/mdisec">Mehmet İnce</a> is joining <a href="https://omarchy.org/teams/">Omarchy Core</a> as our <strong>head of security</strong>! Mehmet has been a key member of the Omarchy Security Team, and now he’ll be setting the direction for how we keep Omarchy safe, from running the bounty program to making sure security is built into everything we ship.</p>
+
+<p>Thanks to <a href="https://omarchy.org/patrons/">our patrons</a>, we can put real money behind making Omarchy secure. We’re grateful for their patronage.</p>
+
+<p>Welcome to Omarchy Core, Mehmet! Let’s make Omarchy as secure as it is beautiful.</p>
+]]></content:encoded>
+</item>
+
 <item>
   <title>ThePrimeagen joins Omarchy Core to lead Agentic QA</title>
   <link>https://omarchy.org/news/2026/09/theprimeagen-joins-omarchy-core</link>

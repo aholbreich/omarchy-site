@@ -126,5 +126,9 @@
   "theprimeagen-joins-omarchy-core": {
     "title": "ThePrimeagen 加入 Omarchy Core，领导 Agentic QA",
     "sourceHash": "f529ba4841ab631a5e7c03a4cc95e4c53fca804b6ad5b8203092365c5cfca284"
+  },
+  "omarchy-launches-bug-bounty-program-on-hackerone": {
+    "title": "Omarchy 在 HackerOne 上推出 $100,000 漏洞赏金计划",
+    "sourceHash": "09e834cfd5c67b5c1b5434c4921b506f7fc73e736d7fdf37b575ed1d1483dc2c"
   }
 }
